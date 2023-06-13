@@ -161,11 +161,6 @@ tables==3.7.0
 tblib==1.7.0
 tenacity==8.2.2
 tensorboard==2.11.2
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.11.0
-tensorflow-estimator==2.11.0
-tensorflow-io-gcs-filesystem==0.32.0
 termcolor==2.2.0
 threadpoolctl==3.1.0
 tifffile==2023.3.15
